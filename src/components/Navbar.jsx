@@ -49,19 +49,6 @@ export default function Navbar() {
               About Us
             </NavLink>
           </li>
-
-          <li>
-            <NavLink
-              to="/admin/login"
-              className={({ isActive }) =>
-                isActive
-                  ? "text-yellow-300 border-b-2 border-yellow-300 pb-1"
-                  : "hover:text-yellow-200 transition"
-              }
-            >
-              Admin
-            </NavLink>
-          </li>
         </ul>
       </div>
     </nav>
