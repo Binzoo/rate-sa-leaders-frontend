@@ -7,7 +7,7 @@ export default function About() {
         <div className="max-w-4xl mx-auto">
           <div className="text-center mb-12">
             <h1 className="text-4xl md:text-5xl font-extrabold text-white mb-6">
-              About RateSA 🇿🇦
+              About RateSA 🇿
             </h1>
             <p className="text-lg md:text-xl text-white mb-6">
               South Africa's First Independent Platform for Citizen Feedback on
